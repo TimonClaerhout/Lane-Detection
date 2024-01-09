@@ -1,11 +1,15 @@
 # Lane detection  
 
-The goal of this project is to a performance analysis between the CPU and GPU via a lane detection system used in self-driving cars.  
+The goal of this project is to do a performance analysis between the CPU and GPU via a lane detection system used in self-driving cars.  
 
 ![Result](./img/Lane-Detection-Result.gif)
 
 To address the (Nvidia) GPU, CUDA in python is used.  
-The full analysis is described in the pdf document.  
+Here below is the full pipeline of the project:  
+
+![Pipeline](./img/Pipeline.PNG)
+
+The full performance analysis and explenation of the pipeline is described in the pdf document.  
 
 ## Modules  
 
